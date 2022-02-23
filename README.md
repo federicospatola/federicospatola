@@ -1,9 +1,12 @@
 ### Hi there 👋, I'm Federico!
 
-| <a href="https://github.com/federicospatola"><img align="center" src="https://github-readme-stats.vercel.app/api?username=federicospatola&count_private=true&show_icons=true?&theme=south" alt="Federico Spatola's GitHub Stats"/></a> | <a href="https://github.com/federicospatola"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicospatola&langs_count=10&hide=html,css,roff&theme=nord&layout=compact" alt="Federico Spatola's GitHub Stats"/></a> |
+ <a href="https://github.com/federicospatola"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicospatola&langs_count=10&hide=html,css,roff&theme=nord&layout=compact" alt="Federico Spatola's GitHub Stats"/></a> |
 | ------------- | ------------- |
 
 <!--
+
+| <a href="https://github.com/federicospatola"><img align="center" src="https://github-readme-stats.vercel.app/api?username=federicospatola&count_private=true&show_icons=true?&theme=south" alt="Federico Spatola's GitHub Stats"/></a> |
+
 **federicospatola/federicospatola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
