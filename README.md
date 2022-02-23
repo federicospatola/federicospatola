@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Federico!
 
- <a href="https://github.com/federicospatola"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicospatola&langs_count=10&hide=html,css,roff&theme=middle&layout=compact" alt="Federico Spatola's GitHub Stats"/></a> |
+ <a href="https://github.com/federicospatola"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=federicospatola&langs_count=10&hide=html,css,roff&theme=nord&layout=compact" alt="Federico Spatola's GitHub Stats"/></a>
 
 
 <!--
